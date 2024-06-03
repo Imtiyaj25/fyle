@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@300;400;500;600;700&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.hero {
+    height: 900px;
+    display: flex;
+    width: 1920px;
+    align-items: center;
+    justify-content: center;
+    
+}
+.hero-left {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    padding-left: 180px;
+    line-height: 1.1;
+}
+.hero-left h2 {
+    left: 376px;
+    width: 270px;
+    height: 30px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 600 30px/110px Poppins;
+    letter-spacing: 0px;
+    color: #FF3147;
+    text-transform: uppercase;
+    opacity: 1;
+}
+.hero-left h1 {
+    left: 376px;
+    width: 614px;
+    height: 140px;
+    text-align: left;
+    font: normal normal bold 60px/80px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    text-transform: uppercase;
+    opacity: 1;
+    /* padding-left: 376px; */
+}
+.hero-left p {
+    left: 375px;
+    width: 584px;
+    height: 83px;
+    text-align: left;
+    font: normal normal normal 16px/30px Poppins;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.hero-left .hero-btn {
+    left: 376px;
+    width: 160px;
+    height: 50px;
+    color: aliceblue;
+    background: #FF3147 0% 0% no-repeat padding-box;
+    border-radius: 2px;
+    opacity: 1;
+    border: none;
+}
+.hero-left .hero-btn:hover {
+    background: #EB1026;
+}
+
+.hero-right img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 100px;
+    left: 1058px;
+    width: 487px;
+    height: 737px;
+    padding-top: 100px;
+    padding-right: 375px;
+    /* background: transparent url('../../Assets/hero.png') 0% 0% no-repeat padding-box; */
+    opacity: 1;
+}

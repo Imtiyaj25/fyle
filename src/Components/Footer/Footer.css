@@ -1,0 +1,23 @@
+.footer {
+  height: 310px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ff3147;
+  color: white;
+}
+
+.icons-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.icon {
+  width: 1170px;
+  height: 56px;
+  background: transparent 0% 0% no-repeat padding-box;
+  opacity: 1;
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}

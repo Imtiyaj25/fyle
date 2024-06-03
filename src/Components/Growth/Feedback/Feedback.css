@@ -1,0 +1,47 @@
+.feedback-section {
+    height: 602px;
+    padding: 20px;
+    margin: 180px;
+    background-color: white;
+    font-family: Arial, sans-serif;
+  }
+  .title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .title h3 {
+    width: 606px;
+height: 24px;
+/* text-align: center; */
+font: normal normal 600 24px/26px Poppins;
+letter-spacing: 0px;
+color: #FF3147;
+opacity: 1;
+  }
+  .title h1 {
+    width: 728px;
+height: 45px;
+/* UI Properties */
+/* text-align: center; */
+font: normal normal bold 45px/65px Poppins;
+letter-spacing: 0px;
+color: #000000;
+text-transform: uppercase;
+opacity: 1;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .feedback-section p {
+    width: 831px;
+height: 92px;
+text-align: center;
+font: normal normal normal 20px/34px Poppins;
+letter-spacing: 0px;
+color: #000000;
+
+  }
