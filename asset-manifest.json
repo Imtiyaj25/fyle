@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/fyle/static/css/main.fefd98d3.css",
-    "main.js": "/fyle/static/js/main.6229c9df.js",
+    "main.css": "/fyle/static/css/main.c10848c7.css",
+    "main.js": "/fyle/static/js/main.40934971.js",
     "static/media/image-3.png": "/fyle/static/media/image-3.e4e67e4e2b2b9b50c616.png",
     "static/media/hero_img.png": "/fyle/static/media/hero_img.1ea39436e513faa0b091.png",
     "static/media/image-1.png": "/fyle/static/media/image-1.97a89700e50cd1065041.png",
@@ -25,11 +25,11 @@
     "static/media/heart (2).svg": "/fyle/static/media/heart (2).b4f830afbe8830b90b3e1b5ac5defe9d.svg",
     "static/media/Path 4402.svg": "/fyle/static/media/Path 4402.97b991815dabd433bc8ce0e0abcbf49b.svg",
     "static/media/arrow.svg": "/fyle/static/media/arrow.e5e6a309049643a7cfb7ece845d930c6.svg",
-    "main.fefd98d3.css.map": "/fyle/static/css/main.fefd98d3.css.map",
-    "main.6229c9df.js.map": "/fyle/static/js/main.6229c9df.js.map"
+    "main.c10848c7.css.map": "/fyle/static/css/main.c10848c7.css.map",
+    "main.40934971.js.map": "/fyle/static/js/main.40934971.js.map"
   },
   "entrypoints": [
-    "static/css/main.fefd98d3.css",
-    "static/js/main.6229c9df.js"
+    "static/css/main.c10848c7.css",
+    "static/js/main.40934971.js"
   ]
 }
